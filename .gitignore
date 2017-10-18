@@ -6,3 +6,9 @@ fonts/
 !fonts/Apache License.txt
 spec/
 index.js
+
+package-lock.json
+
+*.iml
+*.ipr
+*.iws
